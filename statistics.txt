@@ -1,0 +1,36 @@
+population
+sample
+Types of statistics
+methods of sampling - probabilistic , non probabilistic
+Data types
+scales of the data
+data distributions
+metrics
+Mean
+Median
+Mode
+percentile
+Mean deviation
+Mean average deviation
+Mean squared deviation
+variance
+standatd deviation
+kurtosis
+skewness
+
+coeff of variance
+correlation
+Expected Value
+
+Probability:
+---------------
+Types of probability
+Marginal probability
+joint probability
+conditional probability
+Bayes Principle
+
+Miscellaneous:
+---------------------
+Over sampling and under sampling
+
